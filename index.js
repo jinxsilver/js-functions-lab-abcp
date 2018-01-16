@@ -22,4 +22,4 @@ function holidayCountdown(days, holiday) {
   `It's ${days} days until ${holiday}!`
 };
 
-holidayCountdown(23, Christmas)
+holidayCountdown(20, Mother\'s Day)
